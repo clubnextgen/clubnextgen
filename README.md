@@ -1,41 +1,12 @@
-<!--
-<div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
-  </a>
-  <br>
--->
-
-<!--
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
-    width="100%" 
-  />
-</p>
--->
 
 
 
-<!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
-</a>
 
 
 
-<!--<h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
 
 
-<!-- Greeting -->
-</h1>
-<h2 align="center">❂ I am Joshua Thadi</h2>
 
-<h4 align="left">🌟I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in computer science while actively exploring emerging technologies.</h4>
 
 
  <div align="center">
@@ -62,19 +33,11 @@
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
 
-<!-- about me -->
- <h3 align="left">💫 About Me</h3>
 
 
 
-<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div align="left">-->
-<h4> 
-  🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on .Net Framework and experience in ASP.net MVC.</br>
- 💬 Skills I acquire in programming languages such as Python, SQL.</br>
- ⚡ Interest in AI/ML, Data Science, Automation, BlockChain development, Software Development.</br>
- ✨ I only like perfection.</h4> <div align="left"> 
+
+
 
 
   <h3>🧲 Connect me :</h3>
